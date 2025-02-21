@@ -1,12 +1,10 @@
-# Specify the Python version
-python_version==3.9
+# Add your project dependencies here
 
-# Add other dependencies if needed
-# For example, if you are using requests library
+# Example: requests library
 requests==2.25.1
 
-# If you decide to use pytest for testing
+# If using pytest for testing
 pytest==6.2.2
 
-# If you want to use coverage for test coverage reports
+# If using coverage for test coverage reports
 coverage==5.5
